@@ -96,8 +96,4 @@ This package is fully typed with TypeScript.
 
 As **rehype** works on HTML, and improper use of HTML can open you up to a
 cross-site scripting (XSS) attack, use of rehype can also be unsafe.
-Use [`rehype-sanitize`][rehype-sanitize] to make the tree safe.
-
-## License
-
-MIT
+Use `rehype-sanitize` to make the tree safe.
