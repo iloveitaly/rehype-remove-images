@@ -30,9 +30,9 @@ import { remove } from "unist-util-remove"
 import { isElement } from "hast-util-is-element"
 
 /**
- * Remove images from HTML`
+ * Remove images from HTML
  *
- * @type {import('unified').Plugin<[Options?] | Array<void>, Root>}
+ * @type {import('unified').Plugin<Array<void>, Root>}
  */
 export default function rehypeRemoveImages() {
   return (tree) =>
