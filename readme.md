@@ -1,6 +1,6 @@
 # rehype-remove-images
 
-**[rehype][https://github.com/rehypejs/rehype]** plugin to remove images.
+**[rehype](https://github.com/rehypejs/rehype)** plugin to remove images.
 
 ## Contents
 
